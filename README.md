@@ -25,4 +25,19 @@ The app loads in workspace files saved in the 'workspaces' folder in the externa
 ## How to compile the app as a standalone application to run on a different computer without Matlab
 1. Open Matlab and go to the 'APPS' tab at the top of the screen.
 2. Click on the 'Application Compiler'.
-3. 
+3. Ensure 'Runtime downloaded from web' option is selected
+4. click the blue + by the 'Add main file' box and select 'POTD_selection.mlapp'
+5. Name the application 'CPOD POTD selection' and edit the version number as necessary. Author name/email/institution and description is optional.
+6. In the 'Files installed for you end user' box, ensure the following are selected. Some may already appear by default.
+       * curser_inspector.png
+       * eye.png
+       * practice_workspace_list_template.xlsx
+       * startup.m
+       * transparencty_slider.png
+       * worksapce_list_template.xlsx
+       * zoom_inspector.png
+
+6. Click the green check by 'Package' in the top right corner of the Application Compiler. This will open a Save Project window. Accept teh defaults and click 'Save'. You will see a new file in your active directory labelled 'POTD_selection.prj.
+7. Navigate to the POTD_selection.prj' directory using Finder. Double-clicking the 'POTD_selection' file in the 'for_redistribution_files_only' folder will launch the app. Note: you'll have to install Matlab runtime on the host computer in order for the POTD selection app to run.
+
+
