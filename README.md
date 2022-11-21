@@ -39,6 +39,6 @@ The app loads in workspace files saved in the 'workspaces' folder in the externa
        * zoom_inspector.png
 
 6. Click the green check by 'Package' in the top right corner of the Application Compiler. You will see a new file in your active directory labelled 'CPOD_POTD_selection.prj. You should also see two folders: CPOD_POTD_selection and CPOD_POTD_selection resources.
-7. Navigate to the CPOD_POTD_selection ==> for_redistribution_files_only' directory using Finder. Double-clicking the 'CPOD_POTD_selection' file to launch the app. This may take a longer than you expect (especially the first time you launch the app). Note: you'll have to install Matlab runtime (2021b) on the host computer in order for the POTD selection app to run.
+7. Navigate to the CPOD_POTD_selection ==> for_redistribution_files_only' directory using Finder. You can copy-paste this file to any host computer for it to run. Once installed on the desired computer, Double-click the 'CPOD_POTD_selection' file to launch the app. This may take a longer than you expect (especially the first time you launch the app). Note: you'll have to install (1) Matlab runtime (2021b) and (2) itk-snap (version 3.8 or higher ensuring command-line tool functionality) on the host computer in order for the POTD selection app to run. 
 
 
