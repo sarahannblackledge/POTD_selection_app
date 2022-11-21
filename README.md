@@ -27,7 +27,7 @@ The app loads in workspace files saved in the 'workspaces' folder in the externa
 2. Click on the 'Application Compiler'.
 3. Ensure 'Runtime downloaded from web' option is selected
 4. click the blue + by the 'Add main file' box and select 'POTD_selection.mlapp'
-5. Name the application 'CPOD POTD selection' and edit the version number as necessary. Author name/email/institution and description is optional.
+5. Name the application 'CPOD_POTD_selection' and edit the version number as necessary. Author name/email/institution and description is optional.
 6. In the 'Files installed for you end user' box, ensure the following are selected. Some may already appear by default.
        * curser_inspector.png
        * eye.png
@@ -38,7 +38,7 @@ The app loads in workspace files saved in the 'workspaces' folder in the externa
        * transparencty_slider.png
        * zoom_inspector.png
 
-6. Click the green check by 'Package' in the top right corner of the Application Compiler. This will open a Save Project window. Accept the defaults and click 'Save'. You will see a new file in your active directory labelled 'POTD_selection.prj.
-7. Navigate to the POTD_selection.prj' directory using Finder. Double-clicking the 'POTD_selection' file in the 'for_redistribution_files_only' folder will launch the app. Note: you'll have to install Matlab runtime on the host computer in order for the POTD selection app to run.
+6. Click the green check by 'Package' in the top right corner of the Application Compiler. You will see a new file in your active directory labelled 'CPOD_POTD_selection.prj. You should also see two folders: CPOD_POTD_selection and CPOD_POTD_selection resources.
+7. Navigate to the CPOD_POTD_selection ==> for_redistribution_files_only' directory using Finder. Double-clicking the 'CPOD_POTD_selection' file to launch the app. This may take a longer than you expect (especially the first time you launch the app). Note: you'll have to install Matlab runtime (2021b) on the host computer in order for the POTD selection app to run.
 
 
