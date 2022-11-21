@@ -6,10 +6,15 @@ Matlab 2021b
 
 ## Set up instructions
 1. Clone the POTD_selection_app repository onto your local machine into your desired directory (e.g. a folder named 'POTD selection').
+
     i. Make an empty folder
+    
     ii. Go to my github account and find teh POTD_selection_app repository. Click the green 'Code' button and copy the https link. 
+    
     iii. Open a terminal and change the directory to the folder where you want to save the repository.
+    
     iv. Type *git clone* and then paste the URL you cpied in step ii. Press Enter to create your local clone.
+    
     
 2. You should see the app file (.mlapp) and supporting files (startup.m, workspace xlsx files, and .png files) in your new directory.
 3. Edit the workspace file excel spreadsheets.
