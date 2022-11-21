@@ -38,7 +38,7 @@ The app loads in workspace files saved in the 'workspaces' folder in the externa
        * transparencty_slider.png
        * zoom_inspector.png
 
-6. Click the green check by 'Package' in the top right corner of the Application Compiler. This will open a Save Project window. Accept teh defaults and click 'Save'. You will see a new file in your active directory labelled 'POTD_selection.prj.
+6. Click the green check by 'Package' in the top right corner of the Application Compiler. This will open a Save Project window. Accept the defaults and click 'Save'. You will see a new file in your active directory labelled 'POTD_selection.prj.
 7. Navigate to the POTD_selection.prj' directory using Finder. Double-clicking the 'POTD_selection' file in the 'for_redistribution_files_only' folder will launch the app. Note: you'll have to install Matlab runtime on the host computer in order for the POTD selection app to run.
 
 
