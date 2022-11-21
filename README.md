@@ -31,10 +31,11 @@ The app loads in workspace files saved in the 'workspaces' folder in the externa
 6. In the 'Files installed for you end user' box, ensure the following are selected. Some may already appear by default.
        * curser_inspector.png
        * eye.png
+       * mixikit-arcade-score-interface-271.wav
+       * mixkit-bike-magical-bell-591.wav
        * practice_workspace_list_template.xlsx
        * startup.m
        * transparencty_slider.png
-       * worksapce_list_template.xlsx
        * zoom_inspector.png
 
 6. Click the green check by 'Package' in the top right corner of the Application Compiler. This will open a Save Project window. Accept teh defaults and click 'Save'. You will see a new file in your active directory labelled 'POTD_selection.prj.
