@@ -9,7 +9,7 @@ Matlab 2021b
 
     i. Make an empty folder
     
-    ii. Go to my github account and find teh POTD_selection_app repository. Click the green 'Code' button and copy the https link. 
+    ii. Go to my github account and find the POTD_selection_app repository. Click the green 'Code' button and copy the https link. 
     
     iii. Open a terminal and change the directory to the folder where you want to save the repository.
     
