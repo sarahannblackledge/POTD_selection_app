@@ -48,9 +48,13 @@ The app loads in workspace files saved in the 'workspaces' folder in the externa
        * transparencty_slider.png
        
        * zoom_inspector.png
+
+       * init.xlsx (mac versions only)
        
 
 6. Click the green check by 'Package' in the top right corner of the Application Compiler. You will see a new file in your active directory labelled 'CPOD_POTD_selection.prj. You should also see two folders: CPOD_POTD_selection and CPOD_POTD_selection resources.
-7. Navigate to the 'CPOD_POTD_selection ==> for_redistribution_files_only' directory using Finder. You can copy-paste this file to any host computer for it to run. Once installed on the desired computer, Double-click the 'CPOD_POTD_selection' file to launch the app. This may take a longer than you expect (especially the first time you launch the app). Note: you'll have to install (1) Matlab runtime (2021b) and (2) itk-snap (version 3.8 or higher ensuring command-line tool functionality) on the host computer in order for the POTD selection app to run. This will require admin rights on the host machine.
+7. Navigate to the 'CPOD_POTD_selection ==> for_redistribution_files_only' directory using Finder. You can copy-paste this file to any host computer for it to run. 
+8a. Mac computers: Once installed on the desired computer, Double-click the 'CPOD_POTD_selection' file to launch the app. This may take a longer than you expect (especially the first time you launch the app). Note: you'll have to install (1) Matlab runtime (2021b) and (2) itk-snap (version 3.8 or higher ensuring command-line tool functionality) on the host computer in order for the POTD selection app to run. This will require admin rights on the host machine.
+8b. Windows computers: Once installed on the desired computer, see what drive the USB is mounted on (usually D). Save an excel file as init.xlsx in the same directory where the app executable is stored. This file should be empty except for cell A1 which specifies the drive where the USB is mounted (i.e. D:/). You'll have to install (1) Matlab runtime (2022b) and (2) itk-snap (version 3.8 ensuring command-line tool functionality) on the host computer in order for the POTD selection app to run. This will require admin rights on the host machine
 
 
