@@ -43,8 +43,6 @@ The app loads in workspace files saved in the 'workspaces' folder in the externa
        
        * mixkit-bike-magical-bell-591.wav
        
-       * practice_workspace_list_template.xlsx
-       
        * startup.m
        
        * transparencty_slider.png
