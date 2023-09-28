@@ -5,7 +5,7 @@ Matlab/itk-snap app for simulating plan of the day selection
 Matlab 2021b or Matlab 2023b <br>
 ITK-SNAP 4.0.   
 
-Note: The directory containing ITK-SNAP needs to be added to your path. Without this, you will not be able to launch ITK-SNAP from the command line, or from the Matlab app.
+Note:  The directory containing ITK-SNAP needs to be added to your path. Without this, you will not be able to launch ITK-SNAP from the command line, or from the Matlab app.
 
     i. In Windows, ITK-SNAP versions 3.8 and up should ask you as part of the installation whether you want it added to the path (say yes). 
     
