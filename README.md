@@ -7,9 +7,12 @@ ITK-SNAP 4.0.
 
 Note:  The directory containing ITK-SNAP needs to be added to your path. Without this, you will not be able to launch ITK-SNAP from the command line, or from the Matlab app.
 
-    i. In Windows, ITK-SNAP versions 3.8 and up should ask you as part of the installation whether you want it added to the path (say yes). 
+</ul>
+
+    <li>In Windows, ITK-SNAP versions 3.8 and up should ask you as part of the installation whether you want it added to the path (say yes).</li>
     
-    ii. On a Mac, two files are available upon download, the actual itksnap.app file (which you place in your Applications folder), and another itksnap icon, which you must place in your usr/local/bin folder.
+    <li>On a Mac, two files are available upon download, the actual itksnap.app file (which you place in your Applications folder), and another itksnap icon, which you must place in your usr/local/bin folder.</li>
+</ul>
 
 ## Set up instructions
 1. Clone the POTD_selection_app repository onto your local machine into your desired directory (e.g. a folder named 'POTD selection').
